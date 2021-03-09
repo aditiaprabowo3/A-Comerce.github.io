@@ -29,7 +29,7 @@ ul li a{
 .card-trending .bg-top{
     overflow: hidden;
 }
-.bg-top:hover img{
+.card-trending .bg-top:hover img{
     transform: scale(1.9);
     transition: all .9s ease-in;
     object-position: top;
@@ -88,9 +88,9 @@ footer h5{
         border-radius: 50% 50% 0 0;
     }
     .section-banner .img-content .text{
-        top: 40px;
+        top: 42px;
         background-color: #fff;
-        right: 2px;
+        right: 12px;
     }
     .section-banner .img-content .text h6{
         font-size: 6px;
@@ -107,14 +107,14 @@ footer h5{
         margin: 10px 0px;
     }
     .section-banner .img-content .rating h6{
-        font-size: 7px;
+        font-size: 5px;
     }
     .section-banner .img-content .rating{
-        top: 10px;
-        left: 5px;
+        top: 5px;
+        left: -5px;
     }
     .section-banner .img-content .rating h6{
-        font-size: 1vh;
+        font-size: 7px;
     }
     .section-banner .img-content .rating i{
         font-size: 7px
@@ -146,20 +146,17 @@ footer h5{
         width: 80%;
         height: 100%;
         background-color: #ff9345;
-        margin-left: 60px;
+        margin-left: 35px;
         top: 0;
         border-radius: 50% 50% 0 0;
     }
     .section-banner .img-content .text{
         top: 70px;
         background-color: #fff;
-        right: 10px;
+        right: 25px;
     }
     .section-banner .img-content .text h6{
-        font-size: 7px;
-    }
-    .section-banner .img-content .text h6{
-        font-size: 12px;
+        font-size: 8px;
     }
     .cart-1 i{
        margin-left: 20px;
@@ -172,15 +169,12 @@ footer h5{
         height: 25%;
         margin: 10px 0px;
     }
-    .section-banner .img-content .rating h6{
-        font-size: 2.2vh;
-    }
     .section-banner .img-content .rating{
-        top: 50px;
+        top: 40px;
         left: 20px;
     }
     .section-banner .img-content .rating h6{
-        font-size: 1.5vh;
+        font-size: 1.2vh;
     }
     .section-banner .img-content .rating i{
         font-size: 11px
@@ -219,7 +213,7 @@ footer h5{
     .section-banner .img-content .text{
         top: 70px;
         background-color: #fff;
-        right: -14px;
+        right: 5px;
     }
     .section-banner .img-content .text h6{
         font-size: 13px;
